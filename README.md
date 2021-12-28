@@ -1,5 +1,8 @@
-# GPU software manager
-This is my public git repository for the agile practical exam for the fall semester for 2021
+# GPU manager
+
+## Description
+This software will be responsible for managing the GPU's activities and tasks, providing users with control over certain settings to improve quality, maintain stability,
+and offer updates/downgrades when needed, offer information over the current installed software, offer support, and make sure everything is running smoothly.
 
 ## Stakeholders
 GPU manufacturers, GPU piece owners, Game devs.
